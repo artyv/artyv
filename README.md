@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/artyv/artyv/main/assets/header.png" width="100%" alt="Welcome banner"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=771FF7&width=435&lines=WELCOME+TO+MY+PROFILE!" alt="Typing SVG" />
+  </a>
 </p>
 
 <h1 align="center">Hey, I'm Arty 👋</h1>
