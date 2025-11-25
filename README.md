@@ -7,8 +7,7 @@
 <h1 align="center">Hey, I'm Arty 👋</h1>
 
 <p align="center">
-  <strong>Python Developer</strong> | <strong>Leetcoder</strong> | <strong>Kaggler</strong><br/>
-  Turning problems into clean solutions — one commit at a time.
+Data Scientist & Engineer. Focused on NLP, RAG systems, and Infrastructure Automation.
 </p>
 
 ---
